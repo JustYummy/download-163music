@@ -18,3 +18,7 @@ python3 get_music.py
 输入歌单的ID
 例如：23655387
 
+![pic1](https://github.com/JustYummy/Get163Music/blob/master/Pic/pic1.png)
+![pic2](https://github.com/JustYummy/Get163Music/blob/master/Pic/pic2.png)
+
+ - 仅供学习！
