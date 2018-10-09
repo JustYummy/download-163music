@@ -1,4 +1,4 @@
-# Get163Music
+# download 163Music
 
 ### 要求
 需要[NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)支持
